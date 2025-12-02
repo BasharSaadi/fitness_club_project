@@ -7,7 +7,9 @@ A database-driven management system for a modern fitness center, supporting memb
 ## Author
 
 Bashar Saadi
-COMP 3005 - Fall 2025
+- **YOUTUBE VIDEO:** https://www.youtube.com/watch?v=t4Unb48ilDY
+- **NOTE:** I recorded this at the hospital and it remains incomplete. I did not want to upload this and will be taking it down after the course is done.
+- **Please use system! ORM makes it easy to read everything!**
 
 ## Technology Stack
 
