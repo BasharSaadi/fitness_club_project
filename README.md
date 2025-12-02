@@ -134,3 +134,9 @@ This project uses SQLAlchemy ORM throughout:
 - No raw SQL in application code
 - Automatic schema creation from models
 - Proper handling of one-to-many and many-to-many relationships
+
+## Documentation
+
+- **ERD:** [docs/ERD.pdf](docs/ERD.pdf) - Entity-Relationship Diagram
+- **Normalization:** [docs/NORMALIZATION.md](docs/NORMALIZATION.md) - Complete 2NF/3NF analysis with proofs
+- **SQL Features:** [scripts/advanced_sql_features.sql](scripts/advanced_sql_features.sql) - View, trigger, and indexes
