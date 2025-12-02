@@ -140,4 +140,4 @@ This project uses SQLAlchemy ORM throughout:
 - **ERD:** [docs/ERD.pdf](docs/ERD.pdf) - Entity-Relationship Diagram
 - **Normalization:** [docs/NORMALIZATION.md](docs/NORMALIZATION.md) - Complete 2NF/3NF analysis with proofs
 - **SQL Features:** [scripts/advanced_sql_features.sql](scripts/advanced_sql_features.sql) - View, trigger, and indexes
-- Video: https://www.youtube.com/watch?v=1QeiFaTcZ9Y
+
